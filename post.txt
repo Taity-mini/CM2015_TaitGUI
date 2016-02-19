@@ -1,0 +1,20 @@
+Alan,Sugar
+3
+Lewis,Hamilton,2
+L,Bob,Smith,5 High Street,AB1 1YZ,true
+P,Fred,Brown,8 Main Road,AB2 9DF,1200
+Jenson,Button
+4
+L,Jane,Black,3 High Street,AB3 9QQ,true
+P,Eric,White,1 New Street,AB9 3AA,1200
+E,Ernie,Green,54 George Street,AB10 7GH,500
+P,John,McKay,18 Mary Road,AB9 9DS,1200
+Filipe,Massa
+3
+L,Alan,Jones,17 Moray Street,AB34 7WQ,true
+E,Allan,Owen,81 Aberdeen Road,AB34 8VC,1200
+L,Aileen,Lloyd,5a Elgin Street,AB35 8XX,false
+
+
+
+
